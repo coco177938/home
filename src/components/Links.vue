@@ -70,8 +70,6 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
-  ServerProxy,
-  IosCube,
 };
 
 // 链接跳转
