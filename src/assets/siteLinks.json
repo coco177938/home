@@ -30,6 +30,11 @@
     "link": "https://check.ipsb.us.kg/"
   },
   {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://stats.uptimerobot.com/aeIj99fnhh"
+  },
+  {
     "icon": "ServerProxy",
     "name": "github代理",
     "link": "https://jiasu.wencai.us.kg/"
@@ -38,10 +43,5 @@
     "icon": "IosCube",
     "name": "Copilot镜像站",
     "link": "https://ai.wencai.us.kg/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://stats.uptimerobot.com/aeIj99fnhh"
   }
 ]
