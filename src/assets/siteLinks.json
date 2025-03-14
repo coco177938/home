@@ -22,7 +22,7 @@
   {
     "icon": "Book",
     "name": "工具",
-    "link": "https://tools.wencai.nyc.mn/"
+    "link": "http://tools.wencai.nyc.mn/"
   },
   {
     "icon": "Fire",
@@ -32,6 +32,6 @@
   {
     "icon": "LaptopCode",
     "name": "阅后即焚",
-    "link": "https://mi.wencai.nyc.mn/"
+    "link": "http://mi.wencai.nyc.mn/"
   }
 ]
