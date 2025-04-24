@@ -5,8 +5,13 @@
     "link": "https://blog.wencai.nyc.mn/"
   },
   {
-    "icon": "Cloud",
+    "icon": "Compass",
     "name": "在线影视",
+    "link": "http://cms.wencai.nyc.mn/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "影视聚合",
     "link": "https://tv.wencai.nyc.mn/"
   },
   {
