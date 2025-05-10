@@ -22,17 +22,27 @@
   {
     "icon": "Compass",
     "name": "影视APP",
-    "link": "http://wencai.nyc.mn/"
+    "link": "https://wencai.nyc.mn/"
   },
   {
     "icon": "Book",
     "name": "工具",
-    "link": "http://tools.wencai.nyc.mn/"
+    "link": "https://tools.wencai.nyc.mn/"
   },
   {
     "icon": "Fire",
     "name": "github代理",
-    "link": "http://jiasu.wencai.us.kg/"
+    "link": "https://jiasu.wencai.us.kg/"
+  },
+  {
+    "icon": "Fire",
+    "name": "文件快递柜",
+    "link": "https://file.wen.hidns.vip/"
+  },
+  {
+    "icon": "Fire",
+    "name": "文本转语音",
+    "link": "https://v.wencai.nyc.mn/"
   },
   {
     "icon": "LaptopCode",
