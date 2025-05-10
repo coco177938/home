@@ -11,7 +11,12 @@
   },
   {
     "icon": "Cloud",
-    "name": "影视聚合",
+    "name": "影视聚合1",
+    "link": "https://cj.wencai.nyc.mn/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "影视聚合2",
     "link": "https://tv.wencai.nyc.mn/"
   },
   {
