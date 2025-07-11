@@ -6,8 +6,8 @@
   },
   {
     "icon": "Compass",
-    "name": "在线影视",
-    "link": "http://cms.wencai.nyc.mn/"
+    "name": "文件传输",
+    "link": "https://file.wencai.nyc.mn/"
   },
   {
     "icon": "Cloud",
@@ -45,13 +45,8 @@
     "link": "https://file.wen.hidns.vip/"
   },
   {
-    "icon": "Fire",
-    "name": "文本转语音",
-    "link": "https://v.wencai.nyc.mn/"
-  },
-  {
     "icon": "LaptopCode",
-    "name": "临时邮箱",
+    "name": "无限邮箱",
     "link": "https://mail.ppua.nyc.mn"
   }
 ]
